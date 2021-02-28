@@ -4,6 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Random;
 
 public class CompareAlgorithms {
+	//adding a comment to trigger the build
 	
 	public static void main(String args[]) {
 		long inversionsBefore, inversionsAfter;
